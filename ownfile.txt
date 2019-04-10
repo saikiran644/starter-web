@@ -1,2 +1,6 @@
 this is a sample file to upload file to the git repository that is forked and cloned
+<<<<<<< HEAD
 adding second line
+=======
+second line added in github-web-console
+>>>>>>> 2d154c8bfdfc9ed0ddad6d46e7caddcc0f9a9e2f
