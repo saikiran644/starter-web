@@ -1,0 +1,1 @@
+file that is added to git to check git pull command
