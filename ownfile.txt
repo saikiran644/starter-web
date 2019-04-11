@@ -1,4 +1,8 @@
 this is a sample file to upload file to the git repository that is forked and cloned
 adding extra text
+<<<<<<< HEAD
 adding third line locally
 adding fourth line locally
+=======
+adding line in the github console
+>>>>>>> e2a98973a995e807e147502577e71fc6f3526084
