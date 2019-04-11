@@ -1,12 +1,2 @@
 this is a sample file to upload file to the git repository that is forked and cloned
-<<<<<<< HEAD
-second line added
-adding third line from npp git offline
-=======
-adding second line
-adding third line
-<<<<<<< HEAD
->>>>>>> 32c8120e75c0bc0f226bbce04627861e1b739408
-=======
-adding fourth line
->>>>>>> 21acc27a5dc366e4b43c5b7fd40a2db54403da3a
+adding extra text
