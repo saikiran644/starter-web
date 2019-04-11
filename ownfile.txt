@@ -5,4 +5,8 @@ adding third line locally
 adding fourth line locally
 =======
 adding line in the github console
+<<<<<<< HEAD
 >>>>>>> e2a98973a995e807e147502577e71fc6f3526084
+=======
+adding line again in the github console
+>>>>>>> 3cf27d3240e313519c64d525ca6f617adb7ebc97
